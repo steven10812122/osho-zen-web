@@ -182,7 +182,7 @@ blurry, extra limbs, frame, border
    Prompt: A single water droplet sliding off a lotus leaf into calm water, gentle expanding ripples fading into stillness. Soft blue-grey palette, quiet release.
 
 9. **wcard9.jpg — 安逸 Laziness**
-   Prompt: A white cat, clearly visible pointed triangular ears, a small face with closed eyes and whiskers, a long curled tail, and paws tucked in front, lounging lazily stretched out on a cushioned lounge chair. Unaware that the ornate mirror behind it is quietly cracked. No people. Cool blues with a subtle uneasy fracture of light.
+   Prompt: A white cat curled up asleep in a tight round ball shape on a cushioned chair, pointed ears and tail tucked in close to its body, peaceful sleeping face just visible. A simple, compact, anatomically correct pose. Unaware that the ornate mirror behind it is quietly cracked. No people. Cool blues with a subtle uneasy fracture of light.
 
 10. **wcard10.jpg — 和諧 Harmony**
     Prompt: Abstract illustration, no figure, no person, no human anatomy: two dolphins made of soft light swimming in a gentle figure-eight/infinity loop around each other, like a minimalist logo. Cool aqua-violet palette, inner balance.
