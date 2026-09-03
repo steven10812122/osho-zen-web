@@ -5,7 +5,6 @@
   --accent: #ffd23f;
   --text: #f2eee6;
   --text-dim: #b8b2c4;
-  --gap: 10px;
 }
 
 * { box-sizing: border-box; }
@@ -17,26 +16,39 @@ html, body {
   font-family: "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", system-ui, sans-serif;
 }
 
+/* touch-friendly tap targets, no accidental double-tap zoom on buttons/images */
+button, img { touch-action: manipulation; }
+
 .topbar {
   position: sticky;
   top: 0;
   z-index: 10;
   display: flex;
-  gap: 6px;
-  padding: 10px;
+  gap: 8px;
+  padding: 10px clamp(10px, 3vw, 24px);
   background: var(--panel);
   overflow-x: auto;
   border-bottom: 1px solid #302c3a;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (min-width: 700px) {
+  .topbar {
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow-x: visible;
+  }
 }
 
 .tab-btn {
   flex: 0 0 auto;
-  padding: 8px 16px;
+  min-height: 44px;
+  padding: 8px 18px;
   border: none;
   border-radius: 999px;
   background: #3a3548;
   color: var(--text);
-  font-size: 14px;
+  font-size: clamp(14px, 1.6vw, 16px);
   cursor: pointer;
   white-space: nowrap;
 }
@@ -51,17 +63,19 @@ html, body {
 }
 
 #app {
-  max-width: 640px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 16px;
+  padding: clamp(12px, 3vw, 28px);
 }
 
 .view[hidden] { display: none; }
 
+/* card grid: fills available width at every screen size, from a phone
+   in one hand up to a wide desktop window, without a fixed column count */
 .grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: var(--gap);
+  grid-template-columns: repeat(auto-fill, minmax(min(150px, 100%), 1fr));
+  gap: clamp(8px, 2vw, 18px);
 }
 
 .grid img {
@@ -76,10 +90,18 @@ html, body {
 
 .grid img:hover { transform: scale(1.03); }
 
+/* detail/draw content stays a comfortable reading width even when
+   #app itself stretches wide on desktop */
+.narrow {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
 .back-btn {
   display: inline-block;
+  min-height: 44px;
   margin-bottom: 14px;
-  padding: 8px 16px;
+  padding: 8px 18px;
   border: none;
   border-radius: 999px;
   background: #3a3548;
@@ -90,30 +112,27 @@ html, body {
 
 .card-detail-img {
   display: block;
-  max-width: 280px;
-  width: 100%;
+  width: min(320px, 80%);
   margin: 0 auto 18px;
   border-radius: 12px;
   box-shadow: 0 8px 30px rgba(0,0,0,.5);
 }
 
 .card-detail-text {
-  font-size: 18px;
+  font-size: clamp(16px, 2.2vw, 19px);
   line-height: 1.75;
   text-align: center;
   color: var(--text);
-  max-width: 480px;
   margin: 0 auto;
 }
 
 .draw-stage {
   text-align: center;
-  padding-top: 30px;
+  padding-top: clamp(20px, 6vh, 60px);
 }
 
 .draw-card {
-  width: 220px;
-  max-width: 70%;
+  width: min(260px, 70%);
   border-radius: 12px;
   cursor: pointer;
   box-shadow: 0 8px 30px rgba(0,0,0,.5);
@@ -126,4 +145,11 @@ html, body {
   color: var(--text-dim);
   margin-top: 12px;
   font-size: 14px;
+}
+
+/* landscape phones / short viewports: the sticky topbar + padding can
+   eat a big share of the height, so trim it back */
+@media (max-height: 480px) {
+  .draw-stage { padding-top: 12px; }
+  .topbar { padding-top: 6px; padding-bottom: 6px; }
 }
