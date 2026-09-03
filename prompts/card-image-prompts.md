@@ -122,10 +122,10 @@ blurry, extra limbs, frame, border
    Prompt: Many colorful prayer flags on a long string, fluttering together in a strong wind against a bright sky. No people. Warm collective energy.
 
 5. **fcard5.jpg — 全然 Totality**
-   Prompt: Three small silhouettes of acrobats in mid-air, passing a glowing ball between each other in a triangular juggling formation, dynamic warm-toned motion trails, dusk sky.
+   Prompt: A small clothed silhouette of a person sitting cross-legged, floating and balanced perfectly still in mid-air, calm and focused, one hand holding a single glowing point of light steady before them. Dynamic warm-toned dusk sky.
 
 6. **fcard6.jpg — 成功 Success**
-   Prompt: An orange-and-black striped tiger (not a horse — distinctive tiger stripes clearly visible on its fur), a small silhouette of a triumphant rider sitting astride its back with one arm raised high in victory, moving through a shower of golden confetti and ribbons. Warm celebratory orange-gold palette.
+   Prompt: A small silhouette of a person standing triumphantly on a mountain peak, both arms raised high in victory, golden confetti and ribbons swirling around them in celebration. Warm celebratory orange-gold palette.
 
 7. **fcard7.jpg — 壓力 Stress**
    Prompt: A frantic cascade of many distinct circus juggling balls, rings, and flaming torches all tumbling in mid-air at once above a single spinning circus ball on the ground. Warm but chaotic reds and oranges, motion blur.
@@ -197,7 +197,7 @@ blurry, extra limbs, frame, border
     Prompt: A pair of open cupped hands, disembodied and floating with no arms or body attached, gently holding a glowing blooming pink lotus flower between the palms. Soft starlight and water reflections around them. Cool blue-lavender palette.
 
 14. **wcard14.jpg — 療癒 Healing**
-    Prompt: Two hands gently cradling a small injured bird, its wing bandaged, feathers softly glowing as it heals. No human body, just hands and the bird. Warm-cool blended blue-rose palette.
+    Prompt: A small distant silhouette of a person gently cradling a softly glowing bird against their chest, warm healing light flowing between them. Warm-cool blended blue-rose palette.
 
 ---
 

@@ -43,6 +43,7 @@ function renderGrid(deckKey) {
     const img = document.createElement('img');
     img.src = IMG_PATH + card.image;
     img.alt = `${deck.label} ${card.nameZh}`;
+    img.title = `${card.nameZh} · ${card.name}`;
     img.addEventListener('click', () => openDetail(card));
     els.grid.appendChild(img);
   });
