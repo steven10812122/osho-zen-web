@@ -36,6 +36,27 @@ function setActiveTab(deckKey) {
   });
 }
 
+function positionTooltip(img, tooltip) {
+  tooltip.classList.add('visible');
+  const rect = img.getBoundingClientRect();
+  const topbar = document.querySelector('.topbar');
+  const topLimit = topbar ? topbar.getBoundingClientRect().bottom : 0;
+  const margin = 8;
+  const tw = tooltip.offsetWidth;
+  const th = tooltip.offsetHeight;
+
+  let left = rect.left + rect.width / 2 - tw / 2;
+  left = Math.max(margin, Math.min(left, window.innerWidth - tw - margin));
+
+  let top = rect.top - th - margin;
+  if (top < topLimit + margin) {
+    top = rect.bottom + margin;
+  }
+
+  tooltip.style.left = `${left}px`;
+  tooltip.style.top = `${top}px`;
+}
+
 function renderGrid(deckKey) {
   const deck = deckByKey[deckKey];
   els.grid.innerHTML = '';
@@ -51,6 +72,9 @@ function renderGrid(deckKey) {
     const tooltip = document.createElement('span');
     tooltip.className = 'card-tooltip';
     tooltip.textContent = `${card.nameZh} · ${card.name}`;
+
+    img.addEventListener('mouseenter', () => positionTooltip(img, tooltip));
+    img.addEventListener('mouseleave', () => tooltip.classList.remove('visible'));
 
     thumb.appendChild(img);
     thumb.appendChild(tooltip);

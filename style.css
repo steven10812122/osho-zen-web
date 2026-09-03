@@ -96,10 +96,7 @@ button, img { touch-action: manipulation; }
 .card-thumb img:hover { transform: scale(1.03); }
 
 .card-tooltip {
-  position: absolute;
-  left: 50%;
-  bottom: calc(100% + 8px);
-  transform: translateX(-50%) translateY(4px);
+  position: fixed;
   background: #14121a;
   color: var(--text);
   border: 1px solid #3a3548;
@@ -109,13 +106,12 @@ button, img { touch-action: manipulation; }
   white-space: nowrap;
   pointer-events: none;
   opacity: 0;
-  transition: opacity .12s ease, transform .12s ease;
-  z-index: 5;
+  transition: opacity .12s ease;
+  z-index: 50;
 }
 
-.card-thumb:hover .card-tooltip {
+.card-tooltip.visible {
   opacity: 1;
-  transform: translateX(-50%) translateY(0);
 }
 
 /* detail/draw content stays a comfortable reading width even when
