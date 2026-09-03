@@ -118,6 +118,14 @@ button, img { touch-action: manipulation; }
   box-shadow: 0 8px 30px rgba(0,0,0,.5);
 }
 
+.card-name {
+  margin: 0 0 10px;
+  text-align: center;
+  font-size: clamp(18px, 2.6vw, 22px);
+  font-weight: 700;
+  color: var(--accent);
+}
+
 .card-detail-text {
   font-size: clamp(16px, 2.2vw, 19px);
   line-height: 1.75;

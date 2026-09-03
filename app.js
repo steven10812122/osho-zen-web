@@ -15,9 +15,11 @@ const els = {
   drawBack: document.getElementById('draw-back'),
   drawResult: document.getElementById('draw-result'),
   drawResultImg: document.getElementById('draw-result-img'),
+  drawResultName: document.getElementById('draw-result-name'),
   drawResultText: document.getElementById('draw-result-text'),
   detailView: document.getElementById('detail-view'),
   detailImg: document.getElementById('detail-img'),
+  detailName: document.getElementById('detail-name'),
   detailText: document.getElementById('detail-text'),
   detailBack: document.getElementById('detail-back'),
 };
@@ -40,7 +42,7 @@ function renderGrid(deckKey) {
   deck.cards.forEach(card => {
     const img = document.createElement('img');
     img.src = IMG_PATH + card.image;
-    img.alt = `${deck.label} ${card.num}`;
+    img.alt = `${deck.label} ${card.nameZh}`;
     img.addEventListener('click', () => openDetail(card));
     els.grid.appendChild(img);
   });
@@ -55,6 +57,7 @@ function openDeck(deckKey) {
 
 function openDetail(card) {
   els.detailImg.src = IMG_PATH + card.image;
+  els.detailName.textContent = `${card.nameZh} · ${card.name}`;
   els.detailText.textContent = card.text;
   showView('detail');
 }
@@ -79,6 +82,7 @@ function drawRandomCard() {
 els.drawBack.addEventListener('click', () => {
   const card = drawRandomCard();
   els.drawResultImg.src = IMG_PATH + card.image;
+  els.drawResultName.textContent = `${card.nameZh} · ${card.name}`;
   els.drawResultText.textContent = card.text;
   els.drawResult.hidden = false;
 });
