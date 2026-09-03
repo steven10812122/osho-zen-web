@@ -40,12 +40,21 @@ function renderGrid(deckKey) {
   const deck = deckByKey[deckKey];
   els.grid.innerHTML = '';
   deck.cards.forEach(card => {
+    const thumb = document.createElement('div');
+    thumb.className = 'card-thumb';
+
     const img = document.createElement('img');
     img.src = IMG_PATH + card.image;
     img.alt = `${deck.label} ${card.nameZh}`;
-    img.title = `${card.nameZh} · ${card.name}`;
     img.addEventListener('click', () => openDetail(card));
-    els.grid.appendChild(img);
+
+    const tooltip = document.createElement('span');
+    tooltip.className = 'card-tooltip';
+    tooltip.textContent = `${card.nameZh} · ${card.name}`;
+
+    thumb.appendChild(img);
+    thumb.appendChild(tooltip);
+    els.grid.appendChild(thumb);
   });
 }
 

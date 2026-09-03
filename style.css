@@ -78,7 +78,12 @@ button, img { touch-action: manipulation; }
   gap: clamp(8px, 2vw, 18px);
 }
 
-.grid img {
+.card-thumb {
+  position: relative;
+}
+
+.card-thumb img {
+  display: block;
   width: 100%;
   aspect-ratio: 2 / 3;
   object-fit: cover;
@@ -88,7 +93,30 @@ button, img { touch-action: manipulation; }
   background: #2a2635;
 }
 
-.grid img:hover { transform: scale(1.03); }
+.card-thumb img:hover { transform: scale(1.03); }
+
+.card-tooltip {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 8px);
+  transform: translateX(-50%) translateY(4px);
+  background: #14121a;
+  color: var(--text);
+  border: 1px solid #3a3548;
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-size: 13px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity .12s ease, transform .12s ease;
+  z-index: 5;
+}
+
+.card-thumb:hover .card-tooltip {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
 
 /* detail/draw content stays a comfortable reading width even when
    #app itself stretches wide on desktop */

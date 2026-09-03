@@ -122,10 +122,10 @@ blurry, extra limbs, frame, border
    Prompt: Many colorful prayer flags on a long string, fluttering together in a strong wind against a bright sky. No people. Warm collective energy.
 
 5. **fcard5.jpg — 全然 Totality**
-   Prompt: A small clothed silhouette of a person sitting cross-legged, floating and balanced perfectly still in mid-air, calm and focused, one hand holding a single glowing point of light steady before them. Dynamic warm-toned dusk sky.
+   Prompt: Three small clothed silhouettes of runners in a relay race at dusk on a mountain ridge, passing a glowing torch from hand to hand in sequence, dynamic motion trails. Warm-toned sky.
 
 6. **fcard6.jpg — 成功 Success**
-   Prompt: A small silhouette of a person standing triumphantly on a mountain peak, both arms raised high in victory, golden confetti and ribbons swirling around them in celebration. Warm celebratory orange-gold palette.
+   Prompt: A powerful tiger leaping through a shower of golden confetti and ribbons, triumphant motion. Warm celebratory orange-gold palette.
 
 7. **fcard7.jpg — 壓力 Stress**
    Prompt: A frantic cascade of many distinct circus juggling balls, rings, and flaming torches all tumbling in mid-air at once above a single spinning circus ball on the ground. Warm but chaotic reds and oranges, motion blur.
