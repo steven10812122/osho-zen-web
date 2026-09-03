@@ -94,12 +94,12 @@
     {
       "file": "ccard19.jpg",
       "title": "純真 Innocence",
-      "prompt": "A cluster of simple flowers and floating soap bubbles glowing in soft golden light. Warm pastel palette, open uncomplicated wonder."
+      "prompt": "Abstract illustration, no figure, no person, no human anatomy: a cluster of simple daisy flowers and floating soap bubbles glowing in soft golden light, like a botanical icon. Warm pastel palette, open uncomplicated wonder."
     },
     {
       "file": "ccard20.jpg",
       "title": "超越幻象 Beyond Illusion",
-      "prompt": "A translucent veil dissolving away from a bright glowing shape behind it, layered semi-transparent forms fading. Cool violet-silver palette."
+      "prompt": "Abstract illustration, no figure, no person: a translucent veil of fabric dissolving away in mid-air over an empty glowing light source, layered semi-transparent cloth forms fading into mist, like a surreal object study. Cool violet-silver palette."
     },
     {
       "file": "ccard21.jpg",
@@ -159,7 +159,7 @@
     {
       "file": "fcard9.jpg",
       "title": "耗竭 Exhaustion",
-      "prompt": "A flickering flame tangled in mechanical gears and tubes, struggling to keep burning. Dulled warm tones fading toward grey, burnout needing rest."
+      "prompt": "Abstract mechanical illustration, no figure, no person, no human anatomy: a flickering candle flame trapped inside a cage of rusted mechanical gears, chains and tubes, struggling to keep burning, like a steampunk icon. Dulled warm tones fading toward grey, burnout needing rest."
     },
     {
       "file": "fcard10.jpg",
@@ -204,22 +204,22 @@
     {
       "file": "wcard4.jpg",
       "title": "內觀 Turning In",
-      "prompt": "A single still point of glowing light at the center of calm water, faint translucent ripples of faces and thoughts drifting and dissolving outward. Calm indigo palette."
+      "prompt": "Abstract illustration, no figure, no person: a single still point of glowing light at the center of calm dark water, faint translucent geometric ripple-patterns drifting and dissolving outward like sonar waves, like a minimalist icon. Calm indigo palette."
     },
     {
       "file": "wcard5.jpg",
       "title": "放不下 Clinging To The Past",
-      "prompt": "An ornate heavy chest glowing faintly from within with old memories, chains wrapped tightly around it. Cool grey-blue tones, weight of longing for what has passed."
+      "prompt": "Abstract object illustration, no figure, no person: an ornate antique wooden treasure trunk with a curved lid, glowing faintly from within with old sepia-toned memories, rusty chains and padlocks wrapped tightly around it, like a product photo of an object. Cool grey-blue tones, weight of longing for what has passed."
     },
     {
       "file": "wcard6.jpg",
       "title": "幻夢 The Dream",
-      "prompt": "A single outstretched hand of light reaching toward a glowing, semi-transparent idealized silhouette in the distance. Soft dreamy blue-violet mist, romantic illusion rather than solid reality."
+      "prompt": "Abstract illustration, no figure, no person, no human anatomy: a single glowing soap-bubble orb reflecting a distorted rainbow mirage inside it, floating just out of reach above still water, like a surreal object study. Soft dreamy blue-violet mist, romantic illusion rather than solid reality."
     },
     {
       "file": "wcard7.jpg",
       "title": "投射 Projections",
-      "prompt": "Two translucent faces overlapping in shifting light and shadow, blurring into one another. Ambiguous cool-toned mist, seeing one's own feelings mirrored onto another."
+      "prompt": "Abstract illustration, no figure, no person, no face, no human anatomy: two translucent theater masks overlapping in shifting light and shadow, blurring into one another, like an object study. Ambiguous cool-toned mist, seeing one's own feelings mirrored onto another."
     },
     {
       "file": "wcard8.jpg",
@@ -234,7 +234,7 @@
     {
       "file": "wcard10.jpg",
       "title": "和諧 Harmony",
-      "prompt": "A stream of soft dolphin-shaped light flowing in a gentle figure-eight between two glowing points. Cool aqua-violet palette, inner balance."
+      "prompt": "Abstract illustration, no figure, no person, no human anatomy: two dolphins made of soft light swimming in a gentle figure-eight/infinity loop around each other, like a minimalist logo. Cool aqua-violet palette, inner balance."
     },
     {
       "file": "wcard11.jpg",
@@ -244,7 +244,7 @@
     {
       "file": "wcard12.jpg",
       "title": "信任 Trust",
-      "prompt": "A small silhouette leaping joyfully off a cliff into open sky above calm water, arms wide open, no visible safety net. Warm light breaking through cool blue tones."
+      "prompt": "A small bird diving fearlessly off a cliff edge into open sky above calm water, wings folded back, trusting the fall completely. No figure, no person. Warm light breaking through cool blue tones."
     },
     {
       "file": "wcard13.jpg",
@@ -395,6 +395,11 @@
       "file": "rcard14.jpg",
       "title": "豐盛 Abundance",
       "prompt": "A tree with roots deep in glowing earth and branches reaching into a glowing sky, warm full-bodied light connecting both. Harmony between physical enjoyment and inner depth."
+    },
+    {
+      "file": "back.jpg",
+      "title": "卡背 Card Back",
+      "prompt": "An elegant symmetrical mandala-like pattern in deep indigo and gold, softly glowing at the center, no text, no figure, no person, abstract and mysterious geometric design."
     }
   ]
 }

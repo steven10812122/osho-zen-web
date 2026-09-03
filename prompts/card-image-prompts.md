@@ -86,10 +86,10 @@ cluttered background, low quality, blurry, extra limbs, frame, border
     Prompt: A pool of water reflecting faint layered echoes of ghostly shapes fading into mist. Sepia-violet palette, an old repeating pattern.
 
 19. **ccard19.jpg — 純真 Innocence**
-    Prompt: A cluster of simple flowers and floating soap bubbles glowing in soft golden light. Warm pastel palette, open uncomplicated wonder.
+    Prompt: Abstract illustration, no figure, no person, no human anatomy: a cluster of simple daisy flowers and floating soap bubbles glowing in soft golden light, like a botanical icon. Warm pastel palette, open uncomplicated wonder.
 
 20. **ccard20.jpg — 超越幻象 Beyond Illusion**
-    Prompt: A translucent veil dissolving away from a bright glowing shape behind it, layered semi-transparent forms fading. Cool violet-silver palette.
+    Prompt: Abstract illustration, no figure, no person: a translucent veil of fabric dissolving away in mid-air over an empty glowing light source, layered semi-transparent cloth forms fading into mist, like a surreal object study. Cool violet-silver palette.
 
 21. **ccard21.jpg — 完成 Completion**
     Prompt: A circle of golden light closing seamlessly around a single softly fading star at its center. Warm amber-rose gradient, gentle closure.
@@ -131,7 +131,7 @@ cluttered background, low quality, blurry, extra limbs, frame, border
    Prompt: A small silhouette walking a winding misty mountain path, the destination hidden in soft fog, warm dawn light glowing at the edges. Journey over destination.
 
 9. **fcard9.jpg — 耗竭 Exhaustion**
-   Prompt: A flickering flame tangled in mechanical gears and tubes, struggling to keep burning. Dulled warm tones fading toward grey, burnout needing rest.
+   Prompt: Abstract mechanical illustration, no figure, no person, no human anatomy: a flickering candle flame trapped inside a cage of rusted mechanical gears, chains and tubes, struggling to keep burning, like a steampunk icon. Dulled warm tones fading toward grey, burnout needing rest.
 
 10. **fcard10.jpg — 壓抑 Suppression**
     Prompt: A glowing orb of light tightly bound by coils of dark rope, faint light straining to escape through the bindings. Deep red-black palette, a single crack of gold light escaping.
@@ -164,16 +164,16 @@ cluttered background, low quality, blurry, extra limbs, frame, border
    Prompt: Three glowing lanterns swaying and dancing together in the rain among trees, light scattering joyfully through raindrops. Lively blue-violet palette.
 
 4. **wcard4.jpg — 內觀 Turning In**
-   Prompt: A single still point of glowing light at the center of calm water, faint translucent ripples of faces and thoughts drifting and dissolving outward. Calm indigo palette.
+   Prompt: Abstract illustration, no figure, no person: a single still point of glowing light at the center of calm dark water, faint translucent geometric ripple-patterns drifting and dissolving outward like sonar waves, like a minimalist icon. Calm indigo palette.
 
 5. **wcard5.jpg — 放不下 Clinging To The Past**
-   Prompt: An ornate heavy chest glowing faintly from within with old memories, chains wrapped tightly around it. Cool grey-blue tones, weight of longing for what has passed.
+   Prompt: Abstract object illustration, no figure, no person: an ornate antique wooden treasure trunk with a curved lid, glowing faintly from within with old sepia-toned memories, rusty chains and padlocks wrapped tightly around it, like a product photo of an object. Cool grey-blue tones, weight of longing for what has passed.
 
 6. **wcard6.jpg — 幻夢 The Dream**
-   Prompt: A single outstretched hand of light reaching toward a glowing, semi-transparent idealized silhouette in the distance. Soft dreamy blue-violet mist, romantic illusion rather than solid reality.
+   Prompt: Abstract illustration, no figure, no person, no human anatomy: a single glowing soap-bubble orb reflecting a distorted rainbow mirage inside it, floating just out of reach above still water, like a surreal object study. Soft dreamy blue-violet mist, romantic illusion rather than solid reality.
 
 7. **wcard7.jpg — 投射 Projections**
-   Prompt: Two translucent faces overlapping in shifting light and shadow, blurring into one another. Ambiguous cool-toned mist, seeing one's own feelings mirrored onto another.
+   Prompt: Abstract illustration, no figure, no person, no face, no human anatomy: two translucent theater masks overlapping in shifting light and shadow, blurring into one another, like an object study. Ambiguous cool-toned mist, seeing one's own feelings mirrored onto another.
 
 8. **wcard8.jpg — 放手 Letting Go**
    Prompt: A single water droplet sliding off a lotus leaf into calm water, gentle expanding ripples fading into stillness. Soft blue-grey palette, quiet release.
@@ -182,13 +182,13 @@ cluttered background, low quality, blurry, extra limbs, frame, border
    Prompt: An empty lounge chair beside a half-finished drink, the mirror behind it quietly cracked. Cool blues with a subtle uneasy fracture of light, comfort mistaken for stillness.
 
 10. **wcard10.jpg — 和諧 Harmony**
-    Prompt: A stream of soft dolphin-shaped light flowing in a gentle figure-eight between two glowing points. Cool aqua-violet palette, inner balance.
+    Prompt: Abstract illustration, no figure, no person, no human anatomy: two dolphins made of soft light swimming in a gentle figure-eight/infinity loop around each other, like a minimalist logo. Cool aqua-violet palette, inner balance.
 
 11. **wcard11.jpg — 理解 Understanding**
     Prompt: A bird flying freely past the loosely open bars of a cage, the bars rendered translucent and unlocked. Soft blue-white palette, realizing the limit was never solid.
 
 12. **wcard12.jpg — 信任 Trust**
-    Prompt: A small silhouette leaping joyfully off a cliff into open sky above calm water, arms wide open, no visible safety net. Warm light breaking through cool blue tones.
+    Prompt: A small bird diving fearlessly off a cliff edge into open sky above calm water, wings folded back, trusting the fall completely. No figure, no person. Warm light breaking through cool blue tones.
 
 13. **wcard13.jpg — 接納 Receptivity**
     Prompt: Two open hands gently cupping a glowing blooming lotus flower, soft starlight and water reflections around them. Cool blue-lavender palette, quiet openness.

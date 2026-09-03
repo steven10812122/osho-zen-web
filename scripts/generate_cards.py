@@ -34,19 +34,36 @@ def build_url(prompt, seed, width=512, height=768, model="sana"):
     )
 
 
-def fetch(url, dest, retries=3, timeout=90):
+def fetch(url, dest, retries=6, timeout=120):
+    backoff = 8
     for attempt in range(1, retries + 1):
         try:
             result = subprocess.run(
-                ["curl", "-sS", "-f", "--max-time", str(timeout), "-o", dest, url],
+                ["curl", "-sS", "-w", "\n%{http_code}", "--max-time", str(timeout), "-o", dest, url],
                 capture_output=True, text=True,
             )
-            if result.returncode == 0 and os.path.getsize(dest) > 0:
+            status = result.stdout.strip().splitlines()[-1] if result.stdout else ""
+            is_real_image = False
+            if result.returncode == 0 and status == "200" and os.path.getsize(dest) > 0:
+                with open(dest, "rb") as f:
+                    head = f.read(16)
+                is_real_image = head.startswith(b"\xff\xd8\xff") or head.startswith(b"\x89PNG")
+            if is_real_image:
                 return True
-            print(f"  attempt {attempt} failed: {result.stderr.strip()}", file=sys.stderr)
+            body_snippet = ""
+            if os.path.exists(dest) and os.path.getsize(dest) < 2000:
+                with open(dest, "rb") as f:
+                    body_snippet = f.read(200).decode("utf-8", "replace")
+                os.remove(dest)
+            print(f"  attempt {attempt} failed: http={status} {result.stderr.strip()} {body_snippet}", file=sys.stderr)
+            if status == "429" or "rate_limit" in body_snippet or "429" in body_snippet:
+                print(f"  rate-limited, backing off {backoff}s", file=sys.stderr)
+                time.sleep(backoff)
+                backoff = min(backoff * 2, 90)
+                continue
         except Exception as e:
             print(f"  attempt {attempt} failed: {e}", file=sys.stderr)
-        time.sleep(3)
+        time.sleep(4)
     return False
 
 
@@ -58,6 +75,7 @@ def main():
     ap.add_argument("--seed-offset", type=int, default=0, help="add to each card's seed, to regenerate with a different look")
     ap.add_argument("--override-prompt", default=None, help="use this exact prompt instead of the JSON one (still gets art_direction appended); only valid with a single --only file")
     ap.add_argument("--no-art-direction", action="store_true", help="don't append the shared art_direction block (override-prompt already includes everything needed)")
+    ap.add_argument("--skip-existing", action="store_true", help="skip any card whose output file already exists")
     args = ap.parse_args()
 
     data = load_data()
@@ -79,6 +97,9 @@ def main():
     print(f"Generating {len(cards)} card(s) into {args.out}/")
     for i, card in enumerate(cards, start=1):
         dest = os.path.join(args.out, card["file"])
+        if args.skip_existing and os.path.exists(dest) and os.path.getsize(dest) > 0:
+            print(f"[{i}/{len(cards)}] {card['file']} — skipping (already exists)")
+            continue
         if args.no_art_direction:
             full_prompt = card["prompt"]
         else:
