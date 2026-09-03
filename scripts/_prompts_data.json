@@ -1,5 +1,5 @@
 {
-  "art_direction": "Style:modern symbolic spiritual illustration, digital painting with soft luminous\ngradients and glowing light, dreamlike meditative mood, rich jewel-tone color palette,\nsingle centered subject, atmospheric glowing background (stars / mist / aura),\nminimalist and uncluttered. If a human presence appears, render it ONLY as a small\ndistant silhouette with no visible facial or body detail, or as an abstract light-being\nwith no anatomy — never a close-up realistic body, never bare skin. Family-friendly, SFW.\nAspect ratio 2:3 portrait. No text, no logo, no watermark, no border/frame.",
+  "art_direction": "Style:symbolic spiritual illustration, digital painting with soft luminous gradients\nand glowing light, dreamlike meditative mood, rich jewel-tone color palette, atmospheric\nbackground (stars / mist / aura). The described subject must be clearly rendered and\neasily recognizable as itself — show its actual identifying shape and details; do not\nreduce it to a generic glowing circle, ring, orb, or featureless blob. If a human\npresence appears, render it ONLY as a small distant silhouette with no visible facial\nor body detail, or as an abstract light-being with no anatomy — never a close-up\nrealistic body, never bare skin. Family-friendly, SFW. Aspect ratio 2:3 portrait.\nNo text, no logo, no watermark, no border/frame.",
   "cards": [
     {
       "file": "ccard1.jpg",
@@ -9,12 +9,12 @@
     {
       "file": "ccard2.jpg",
       "title": "內在之聲 Inner Voice",
-      "prompt": "A glowing crescent moon cradling a swirling spiral of silver water, two dolphins circling gently around it symbolizing intuition. Cool blue-white palette, quiet inner listening."
+      "prompt": "Two silver-blue dolphins leaping and circling gracefully around a large glowing white crescent moon, spiral splashes of water below them, star-filled night sky. Cool blue-white palette, quiet inner listening."
     },
     {
       "file": "ccard3.jpg",
       "title": "創造力 Creativity",
-      "prompt": "A single glowing paintbrush trailing colorful ribbons of light that swirl upward into abstract joyful shapes. Warm magenta-orange glow, playful creative energy flowing outward."
+      "prompt": "A single glowing paintbrush, clearly visible with bristles and handle, mid-stroke, trailing vivid rainbow-colored ribbons of wet paint through the air in swirling curved shapes. Warm magenta-orange glow."
     },
     {
       "file": "ccard4.jpg",
@@ -24,17 +24,17 @@
     {
       "file": "ccard5.jpg",
       "title": "空無 No-Thingness",
-      "prompt": "A vast empty dark void with a single soft glowing point of light slowly dissolving at the center, no solid form. Deep black-violet gradient, spacious potential rather than emptiness."
+      "prompt": "A single tiny white feather, clearly visible with individual barbs, slowly dissolving into sparkling dust as it floats alone in a vast empty dark void. Deep black-violet gradient, spacious silence rather than emptiness."
     },
     {
       "file": "ccard6.jpg",
       "title": "戀人 The Lovers",
-      "prompt": "Two spirals of soft light intertwining and touching at their centers, connected by a thread of golden light. Soft pink-lavender palette, tender mutual connection."
+      "prompt": "Two glowing ribbons of light, one pink and one gold, weaving and intertwining together in the air until they form the clear recognizable shape of a heart. Soft pink-lavender palette, tender mutual connection."
     },
     {
       "file": "ccard7.jpg",
       "title": "覺察 Awareness",
-      "prompt": "A single luminous eye glowing softly at the center of an expanding calm circle of light, faint thought-forms drifting away like unattached smoke. Teal-gold palette."
+      "prompt": "A wise owl with large round glowing eyes, perched perfectly still on a branch, watching calmly and alertly, soft light surrounding it. Teal-gold palette. No person."
     },
     {
       "file": "ccard8.jpg",
@@ -44,7 +44,7 @@
     {
       "file": "ccard9.jpg",
       "title": "獨處 Aloneness",
-      "prompt": "A single glowing orb of soft light resting peacefully inside a larger circle of light in an otherwise dark space, self-contained and whole. Deep blue-violet palette."
+      "prompt": "A single lit candle standing alone at the center of a large dark round room, its flame the only light source, curved stone walls surrounding it in a circle. Deep blue-violet palette, self-contained and whole."
     },
     {
       "file": "ccard10.jpg",
@@ -69,7 +69,7 @@
     {
       "file": "ccard14.jpg",
       "title": "整合 Integration",
-      "prompt": "Two flowing forms — one sharp and angular, one soft and curved — merging together into a single balanced glowing shape. Teal-rose gradient."
+      "prompt": "A glowing yin-yang symbol, one half made of golden light, one half made of silver light, swirling together in perfect balance. Clearly the classic yin-yang shape. Teal-rose gradient. No person."
     },
     {
       "file": "ccard15.jpg",
@@ -79,17 +79,17 @@
     {
       "file": "ccard16.jpg",
       "title": "雷電 Thunderbolt",
-      "prompt": "A dramatic bolt of white-gold lightning shattering an old rigid tower into fragments against a dark storm-blue sky. Sense of sudden necessary upheaval."
+      "prompt": "A dramatic bolt of white-gold lightning striking and shattering a tall crumbling stone tower into fragments, stone debris flying outward, dark storm-blue sky. Sense of sudden necessary upheaval."
     },
     {
       "file": "ccard17.jpg",
       "title": "寂靜 Silence",
-      "prompt": "Abstract illustration, no figure, no person: a single glowing lotus-shaped icon resting motionless in a vast quiet dark-blue empty space, faint ripples of stillness radiating outward like visible sound waves. Minimal composition, like a logo."
+      "prompt": "A single pink lotus flower, clearly recognizable with visible petals, blooming perfectly still on dark calm water, faint ripple rings spreading outward around it in a vast quiet dark-blue space. No figure, no person."
     },
     {
       "file": "ccard18.jpg",
       "title": "前世 Past Lives",
-      "prompt": "A pool of water reflecting faint layered echoes of ghostly shapes fading into mist. Sepia-violet palette, an old repeating pattern."
+      "prompt": "An old ornate hourglass filled with glowing sand, clearly detailed glass and wood frame, with faint translucent echoes of the same hourglass repeating and fading away behind it into the past. Sepia-violet palette. No person."
     },
     {
       "file": "ccard19.jpg",
@@ -99,12 +99,12 @@
     {
       "file": "ccard20.jpg",
       "title": "超越幻象 Beyond Illusion",
-      "prompt": "Abstract illustration, no figure, no person: a translucent veil of fabric dissolving away in mid-air over an empty glowing light source, layered semi-transparent cloth forms fading into mist, like a surreal object study. Cool violet-silver palette."
+      "prompt": "A kaleidoscope toy lying on a dark table, colorful fractured glass and mirror patterns clearly visible through its lens end. No people, no faces, just the object. Cool violet-silver palette."
     },
     {
       "file": "ccard21.jpg",
       "title": "完成 Completion",
-      "prompt": "A circle of golden light closing seamlessly around a single softly fading star at its center. Warm amber-rose gradient, gentle closure."
+      "prompt": "A single ripe pomegranate, split open, glowing jewel-like seeds clearly visible inside catching warm light, sitting alone on a dark surface. Warm amber-rose gradient. No person."
     },
     {
       "file": "ccard22.jpg",
@@ -134,12 +134,12 @@
     {
       "file": "fcard4.jpg",
       "title": "參與 Participation",
-      "prompt": "A circle of glowing colored light-beams weaving together into one larger radiant pattern above a warm central glow. Warm collective energy."
+      "prompt": "Many colorful prayer flags on a long string, fluttering together in a strong wind against a bright sky. No people. Warm collective energy."
     },
     {
       "file": "fcard5.jpg",
       "title": "全然 Totality",
-      "prompt": "Three flames of light passing a glowing orb between each other in a triangular dance, dynamic warm-toned light trails. Full present-moment focus."
+      "prompt": "A bonfire made of three large logs leaning together and burning as one single fire, bright sparks flying upward into the night sky. Dynamic warm-toned motion. No people."
     },
     {
       "file": "fcard6.jpg",
@@ -149,7 +149,7 @@
     {
       "file": "fcard7.jpg",
       "title": "壓力 Stress",
-      "prompt": "Too many glowing orbs, rings, and flames being juggled at once in frantic motion above a single spinning ball. Warm but chaotic reds and oranges, strain visible in the motion blur."
+      "prompt": "A frantic cascade of many distinct circus juggling balls, rings, and flaming torches all tumbling in mid-air at once above a single spinning circus ball on the ground. Warm but chaotic reds and oranges, motion blur."
     },
     {
       "file": "fcard8.jpg",
@@ -194,12 +194,12 @@
     {
       "file": "wcard2.jpg",
       "title": "知己之交 Friendliness",
-      "prompt": "Two trees growing side by side, branches touching lightly overhead without tangling, roots independent in soft earth. Cool green-blue palette, quiet companionship."
+      "prompt": "Close-up of two tree trunks growing side by side, bark texture clearly visible, their upper branches visibly touching overhead. Empty forest, absolutely no people anywhere in the frame. Cool green-blue palette."
     },
     {
       "file": "wcard3.jpg",
       "title": "歡慶 Celebration",
-      "prompt": "Three glowing lanterns swaying and dancing together in the rain among trees, light scattering joyfully through raindrops. Lively blue-violet palette."
+      "prompt": "Three ornate paper lanterns hanging from a branch, close-up filling most of the frame, swinging in wind and rain, warm light scattering through raindrops. No people anywhere. Lively blue-violet palette."
     },
     {
       "file": "wcard4.jpg",
@@ -214,12 +214,12 @@
     {
       "file": "wcard6.jpg",
       "title": "幻夢 The Dream",
-      "prompt": "Abstract illustration, no figure, no person, no human anatomy: a single glowing soap-bubble orb reflecting a distorted rainbow mirage inside it, floating just out of reach above still water, like a surreal object study. Soft dreamy blue-violet mist, romantic illusion rather than solid reality."
+      "prompt": "A large iridescent soap bubble floating above still water, its curved surface clearly reflecting a tiny rainbow-colored castle floating inside it like a mirage. No people. Soft dreamy blue-violet mist."
     },
     {
       "file": "wcard7.jpg",
       "title": "投射 Projections",
-      "prompt": "Abstract illustration, no figure, no person, no face, no human anatomy: two translucent theater masks overlapping in shifting light and shadow, blurring into one another, like an object study. Ambiguous cool-toned mist, seeing one's own feelings mirrored onto another."
+      "prompt": "A pair of antique brass binoculars resting on a windowsill, each lens clearly reflecting a different colorful distorted scene. No people, no faces — just metal and glass. Ambiguous cool-toned mist."
     },
     {
       "file": "wcard8.jpg",
@@ -249,12 +249,12 @@
     {
       "file": "wcard13.jpg",
       "title": "接納 Receptivity",
-      "prompt": "Two open hands gently cupping a glowing blooming lotus flower, soft starlight and water reflections around them. Cool blue-lavender palette, quiet openness."
+      "prompt": "A pair of open cupped hands, disembodied and floating with no arms or body attached, gently holding a glowing blooming pink lotus flower between the palms. Soft starlight and water reflections around them. Cool blue-lavender palette."
     },
     {
       "file": "wcard14.jpg",
       "title": "療癒 Healing",
-      "prompt": "Two hands gently cupping a small luminous glowing orb, old faint cracks of light on its surface softening and dissolving. Warm-cool blended blue-rose palette, tender healing."
+      "prompt": "A cracked ceramic bowl repaired with glowing golden seams in the kintsugi style, light shining through the golden cracks, sitting alone on a dark surface. No people. Warm-cool blended blue-rose palette."
     },
     {
       "file": "ucard1.jpg",
@@ -264,12 +264,12 @@
     {
       "file": "ucard2.jpg",
       "title": "拉鋸 Schizophrenia",
-      "prompt": "A glowing orb suspended midair, pulled taut by two opposing beams of light on either side, unable to settle. Cool grey-violet palette, torn between two choices."
+      "prompt": "A close-up of an old brass compass with a spinning needle unable to settle, pointing wildly between two opposite directions, glowing dial markings clearly visible. No people, no body, just the compass object. Cool grey-violet palette."
     },
     {
       "file": "ucard3.jpg",
       "title": "封凍 Ice-olation",
-      "prompt": "A face frozen inside a block of pale blue ice, a single tear suspended mid-fall. Cool icy palette, protective numbness hiding old hurt."
+      "prompt": "A single red rose completely encased inside a thick block of cracked, frosted ice, visible ice crystals covering the petals, a single drop of water frozen mid-fall beside it. Cool icy palette. No person."
     },
     {
       "file": "ucard4.jpg",
@@ -279,22 +279,22 @@
     {
       "file": "ucard5.jpg",
       "title": "比較 Comparison",
-      "prompt": "A rough old tree trunk and a tall slender bamboo standing side by side in soft light, neither better nor worse. Muted green-brown palette."
+      "prompt": "A rough gnarled old tree trunk standing directly next to a tall slender green bamboo stalk, both clearly visible growing side by side in a garden. No people, no animals. Muted green-brown palette."
     },
     {
       "file": "ucard6.jpg",
       "title": "重擔 The Burden",
-      "prompt": "A small bent silhouette climbing a steep hill carrying many faint ghostly packages and shapes on their back. Muted grey-violet tones, weight of unspoken obligation."
+      "prompt": "Close-up side view of a donkey's entire body from head to tail filling most of the frame, ears and four legs clearly visible, several wooden crates and sacks tied onto a wooden saddle frame on its back. Only the donkey, no other creatures, no people. Muted grey-violet tones."
     },
     {
       "file": "ucard7.jpg",
       "title": "心機 Politics",
-      "prompt": "Two overlapping masks, one smiling and one scowling, neither showing a real face beneath. Cool grey-green palette, calculated social performance."
+      "prompt": "Two ornate wooden masks mounted on wooden poles stuck into the ground, one carved with a smiling expression, one carved with a scowling expression, carved wood grain and paint clearly visible. No living faces. Cool grey-green palette."
     },
     {
       "file": "ucard8.jpg",
       "title": "自責 Guilt",
-      "prompt": "A glowing head-shaped form with translucent hands reaching in from all directions. Faint grey-violet tones, the heavy weight of self-blame pressing inward."
+      "prompt": "A cracked weathered marble statue bust of a head, clearly stone texture with visible cracks and moss growing in them, standing alone in a dim room. This is carved stone, not real skin. Faint grey-violet tones."
     },
     {
       "file": "ucard9.jpg",
@@ -304,12 +304,12 @@
     {
       "file": "ucard10.jpg",
       "title": "重生 Rebirth",
-      "prompt": "A small distant silhouette, no visible facial detail, playing a flute while standing atop a sleeping lion and camel, dawn light breaking behind them. Soft gold-blue gradient."
+      "prompt": "A small faceless child silhouette playing a flute, standing balanced on top of a sleeping lion, which itself lies resting on top of a camel — all three clearly stacked and visible — dawn light breaking behind them. Soft gold-blue gradient."
     },
     {
       "file": "ucard11.jpg",
       "title": "紛亂之心 Mind",
-      "prompt": "A head-shaped form built from tangled gears, dice, and mechanical fragments, faint light struggling to shine through the clutter. Cool grey-metallic palette."
+      "prompt": "A large human head silhouette entirely constructed out of visible clockwork gears, spinning dice, nuts, bolts and mechanical scrap metal fused together — a steampunk sculpture, not a real face or skin. Cool grey-metallic palette."
     },
     {
       "file": "ucard12.jpg",
@@ -319,7 +319,7 @@
     {
       "file": "ucard13.jpg",
       "title": "教條 Morality",
-      "prompt": "A rigid geometric cage of bars and layered stiff collars stacked upon each other, empty at the center. Muted grey-beige palette, vitality dimmed by external rules."
+      "prompt": "An empty rigid birdcage made of straight geometric metal bars, with several stiff formal shirt-collars stacked and hanging inside it like rungs. No person, no face inside. Muted grey-beige palette."
     },
     {
       "file": "ucard14.jpg",
@@ -334,17 +334,17 @@
     {
       "file": "rcard2.jpg",
       "title": "當下 Moment To Moment",
-      "prompt": "A small silhouette stepping lightly across stones in a flowing stream, focused only on the next step. Warm multicolor light reflecting off the water's surface."
+      "prompt": "A row of flat stepping stones crossing a shallow flowing stream, close-up, each stone catching warm multicolor light reflecting off the water, a splash of water on the nearest stone. No people."
     },
     {
       "file": "rcard3.jpg",
       "title": "指引 Guidance",
-      "prompt": "A luminous rainbow-winged shape of light hovering gently beside a small glowing seed of light. Warm prismatic glow, inner guidance rather than external authority."
+      "prompt": "A small luminous angel figure with large feathered rainbow-colored wings, clearly visible, hovering gently in the air beside a tiny glowing seed of light resting on the ground below. Warm prismatic glow."
     },
     {
       "file": "rcard4.jpg",
       "title": "守財者 The Miser",
-      "prompt": "A heap of glowing jewels in a shadowed corner, two clutched hands barely visible gripping them tightly shut. Cool shadow despite the wealth around them."
+      "prompt": "A large glowing heap of gold coins and colorful gemstones piled in a dark shadowy corner, with two bony hands gripping a fistful of coins tightly, refusing to let go. Cool shadow despite the wealth around them."
     },
     {
       "file": "rcard5.jpg",
@@ -354,12 +354,12 @@
     {
       "file": "rcard6.jpg",
       "title": "妥協 Compromise",
-      "prompt": "Two shapes of light standing side by side, each quietly hiding a small blade behind them, forced smiles painted on simple mask-like faces. Muted warm-grey palette, uneasy peace."
+      "prompt": "Two identical wooden marionette puppet dolls hanging from strings, carved wooden faces painted with fixed smiles, visible wood grain and joints — clearly toy puppets, not real people — each secretly holding a tiny dagger behind its back. Muted warm-grey palette."
     },
     {
       "file": "rcard7.jpg",
       "title": "耐心 Patience",
-      "prompt": "A glowing seed resting peacefully as moon phases arc gently overhead in a cycle, quiet growth happening unseen within. Soft warm amber-violet gradient."
+      "prompt": "A single glowing pearl resting inside an open oyster shell on the ocean floor, moonlight filtering down from above in a single beam. Soft warm amber-violet gradient. No people."
     },
     {
       "file": "rcard8.jpg",
@@ -374,7 +374,7 @@
     {
       "file": "rcard10.jpg",
       "title": "世界一家 We Are The World",
-      "prompt": "A circle of many different glowing lights linked hand to hand in an unbroken ring, dancing gently around a small luminous globe. Warm multicolor prismatic palette, joyful collective celebration."
+      "prompt": "Many small glowing figures of different colors, clearly distinct individuals, standing together in a large circle holding hands, forming an unbroken ring around a small glowing globe of the Earth at the center. Warm multicolor prismatic palette."
     },
     {
       "file": "rcard11.jpg",
@@ -384,7 +384,7 @@
     {
       "file": "rcard12.jpg",
       "title": "放慢腳步 Slowing Down",
-      "prompt": "A turtle carrying a glowing shell-home calmly along a quiet path, unhurried. Warm muted earth tones, contentment already carried within."
+      "prompt": "A large turtle, with clearly visible head, four legs and tail, carrying a glowing patterned shell on its back, walking slowly and calmly along a quiet forest path. Warm muted earth tones."
     },
     {
       "file": "rcard13.jpg",
