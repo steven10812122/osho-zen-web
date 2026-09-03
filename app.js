@@ -76,7 +76,12 @@ function renderGrid(deckKey) {
     img.addEventListener('mouseenter', () => positionTooltip(img, tooltip));
     img.addEventListener('mouseleave', () => tooltip.classList.remove('visible'));
 
+    const badge = document.createElement('span');
+    badge.className = 'card-num';
+    badge.textContent = card.num;
+
     thumb.appendChild(img);
+    thumb.appendChild(badge);
     thumb.appendChild(tooltip);
     els.grid.appendChild(thumb);
   });

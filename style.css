@@ -95,6 +95,25 @@ button, img { touch-action: manipulation; }
 
 .card-thumb img:hover { transform: scale(1.03); }
 
+.card-num {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(20, 18, 26, 0.75);
+  color: var(--text);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  pointer-events: none;
+}
+
 .card-tooltip {
   position: fixed;
   background: #14121a;
