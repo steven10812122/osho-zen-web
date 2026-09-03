@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>奧修禪卡</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <button class="tab-btn draw-btn" data-view="draw">抽卡</button>
+  <button class="tab-btn" data-deck="main">主牌</button>
+  <button class="tab-btn" data-deck="fire">火</button>
+  <button class="tab-btn" data-deck="water">水</button>
+  <button class="tab-btn" data-deck="air">雲</button>
+  <button class="tab-btn" data-deck="rainbow">彩虹</button>
+</header>
+
+<main id="app">
+  <section id="grid-view" class="view">
+    <div id="grid" class="grid"></div>
+  </section>
+
+  <section id="draw-view" class="view" hidden>
+    <div class="draw-stage">
+      <img id="draw-back" class="draw-card" alt="點擊抽卡">
+      <div id="draw-result" hidden>
+        <img id="draw-result-img" class="card-detail-img" alt="">
+        <p id="draw-result-text" class="card-detail-text"></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="detail-view" class="view" hidden>
+    <button id="detail-back" class="back-btn">← 返回</button>
+    <img id="detail-img" class="card-detail-img" alt="">
+    <p id="detail-text" class="card-detail-text"></p>
+  </section>
+</main>
+
+<script src="data/decks.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,129 @@
+:root {
+  color-scheme: light dark;
+  --bg: #14121a;
+  --panel: #1e1b26;
+  --accent: #ffd23f;
+  --text: #f2eee6;
+  --text-dim: #b8b2c4;
+  --gap: 10px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", system-ui, sans-serif;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  gap: 6px;
+  padding: 10px;
+  background: var(--panel);
+  overflow-x: auto;
+  border-bottom: 1px solid #302c3a;
+}
+
+.tab-btn {
+  flex: 0 0 auto;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 999px;
+  background: #3a3548;
+  color: var(--text);
+  font-size: 14px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.tab-btn:hover { background: #4a4460; }
+.tab-btn.active { background: var(--accent); color: #14121a; font-weight: 600; }
+
+.draw-btn {
+  background: var(--accent);
+  color: #14121a;
+  font-weight: 700;
+}
+
+#app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.view[hidden] { display: none; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--gap);
+}
+
+.grid img {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform .15s ease;
+  background: #2a2635;
+}
+
+.grid img:hover { transform: scale(1.03); }
+
+.back-btn {
+  display: inline-block;
+  margin-bottom: 14px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 999px;
+  background: #3a3548;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.card-detail-img {
+  display: block;
+  max-width: 280px;
+  width: 100%;
+  margin: 0 auto 18px;
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(0,0,0,.5);
+}
+
+.card-detail-text {
+  font-size: 18px;
+  line-height: 1.75;
+  text-align: center;
+  color: var(--text);
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.draw-stage {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.draw-card {
+  width: 220px;
+  max-width: 70%;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 8px 30px rgba(0,0,0,.5);
+  transition: transform .15s ease;
+}
+
+.draw-card:hover { transform: scale(1.03); }
+
+.draw-hint {
+  color: var(--text-dim);
+  margin-top: 12px;
+  font-size: 14px;
+}
