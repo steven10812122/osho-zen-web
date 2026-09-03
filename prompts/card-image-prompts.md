@@ -122,10 +122,10 @@ blurry, extra limbs, frame, border
    Prompt: Many colorful prayer flags on a long string, fluttering together in a strong wind against a bright sky. No people. Warm collective energy.
 
 5. **fcard5.jpg — 全然 Totality**
-   Prompt: A bonfire made of three large logs leaning together and burning as one single fire, bright sparks flying upward into the night sky. Dynamic warm-toned motion. No people.
+   Prompt: Three small silhouettes of acrobats in mid-air, passing a glowing ball between each other in a triangular juggling formation, dynamic warm-toned motion trails, dusk sky.
 
 6. **fcard6.jpg — 成功 Success**
-   Prompt: A powerful tiger leaping through a shower of golden confetti and ribbons, triumphant motion. Warm celebratory orange-gold palette.
+   Prompt: An orange-and-black striped tiger (not a horse — distinctive tiger stripes clearly visible on its fur), a small silhouette of a triumphant rider sitting astride its back with one arm raised high in victory, moving through a shower of golden confetti and ribbons. Warm celebratory orange-gold palette.
 
 7. **fcard7.jpg — 壓力 Stress**
    Prompt: A frantic cascade of many distinct circus juggling balls, rings, and flaming torches all tumbling in mid-air at once above a single spinning circus ball on the ground. Warm but chaotic reds and oranges, motion blur.
@@ -164,10 +164,10 @@ blurry, extra limbs, frame, border
    Prompt: Close-up of two tree trunks growing side by side, bark texture clearly visible, their upper branches visibly touching overhead. Empty forest, absolutely no people anywhere in the frame. Cool green-blue palette.
 
 3. **wcard3.jpg — 歡慶 Celebration**
-   Prompt: Three ornate paper lanterns hanging from a branch, close-up filling most of the frame, swinging in wind and rain, warm light scattering through raindrops. No people anywhere. Lively blue-violet palette.
+   Prompt: Three small silhouettes of women dancing barefoot and joyfully in the rain among trees, arms raised, splashing through puddles, warm light scattering through raindrops. Lively blue-violet palette.
 
 4. **wcard4.jpg — 內觀 Turning In**
-   Prompt: Abstract illustration, no figure, no person: a single still point of glowing light at the center of calm dark water, faint translucent geometric ripple-patterns drifting and dissolving outward like sonar waves, like a minimalist icon. Calm indigo palette.
+   Prompt: A small distant silhouette of a person sitting cross-legged in meditation, wearing a simple full-length modest robe with a high neckline, faint translucent ripples of thought-forms drifting around them. The figure is small and far away, not a close-up portrait. Calm indigo palette.
 
 5. **wcard5.jpg — 放不下 Clinging To The Past**
    Prompt: Abstract object illustration, no figure, no person: an ornate antique wooden treasure trunk with a curved lid, glowing faintly from within with old sepia-toned memories, rusty chains and padlocks wrapped tightly around it, like a product photo of an object. Cool grey-blue tones, weight of longing for what has passed.
@@ -182,7 +182,7 @@ blurry, extra limbs, frame, border
    Prompt: A single water droplet sliding off a lotus leaf into calm water, gentle expanding ripples fading into stillness. Soft blue-grey palette, quiet release.
 
 9. **wcard9.jpg — 安逸 Laziness**
-   Prompt: An empty lounge chair beside a half-finished drink, the mirror behind it quietly cracked. Cool blues with a subtle uneasy fracture of light, comfort mistaken for stillness.
+   Prompt: A fluffy cat lounging lazily and stretched out on a cushioned lounge chair, eyes half-closed in total contentment, unaware that the ornate mirror behind it is quietly cracked. No people. Cool blues with a subtle uneasy fracture of light.
 
 10. **wcard10.jpg — 和諧 Harmony**
     Prompt: Abstract illustration, no figure, no person, no human anatomy: two dolphins made of soft light swimming in a gentle figure-eight/infinity loop around each other, like a minimalist logo. Cool aqua-violet palette, inner balance.
@@ -197,7 +197,7 @@ blurry, extra limbs, frame, border
     Prompt: A pair of open cupped hands, disembodied and floating with no arms or body attached, gently holding a glowing blooming pink lotus flower between the palms. Soft starlight and water reflections around them. Cool blue-lavender palette.
 
 14. **wcard14.jpg — 療癒 Healing**
-    Prompt: A cracked ceramic bowl repaired with glowing golden seams in the kintsugi style, light shining through the golden cracks, sitting alone on a dark surface. No people. Warm-cool blended blue-rose palette.
+    Prompt: Two hands gently cradling a small injured bird, its wing bandaged, feathers softly glowing as it heals. No human body, just hands and the bird. Warm-cool blended blue-rose palette.
 
 ---
 
@@ -221,13 +221,13 @@ blurry, extra limbs, frame, border
    Prompt: A rough gnarled old tree trunk standing directly next to a tall slender green bamboo stalk, both clearly visible growing side by side in a garden. No people, no animals. Muted green-brown palette.
 
 6. **ucard6.jpg — 重擔 The Burden**
-   Prompt: Close-up side view of a donkey's entire body from head to tail filling most of the frame, ears and four legs clearly visible, several wooden crates and sacks tied onto a wooden saddle frame on its back. Only the donkey, no other creatures, no people. Muted grey-violet tones.
+   Prompt: A small distant silhouette of a person bent forward under the weight of a huge overloaded backpack stacked high with boxes and sacks, struggling up a steep rocky mountain path. Muted grey-violet tones.
 
 7. **ucard7.jpg — 心機 Politics**
    Prompt: Two ornate wooden masks mounted on wooden poles stuck into the ground, one carved with a smiling expression, one carved with a scowling expression, carved wood grain and paint clearly visible. No living faces. Cool grey-green palette.
 
 8. **ucard8.jpg — 自責 Guilt**
-   Prompt: A cracked weathered marble statue bust of a head, clearly stone texture with visible cracks and moss growing in them, standing alone in a dim room. This is carved stone, not real skin. Faint grey-violet tones.
+   Prompt: A small distant silhouette of a person in a dark hooded cloak, fully covered, sitting hunched over with their head down in their hands, faint translucent ghostly hands reaching in from the darkness around them. The figure is small and far away, not a close-up portrait. Faint grey-violet tones.
 
 9. **ucard9.jpg — 悲傷 Sorrow**
    Prompt: A small hooded silhouette sitting in quiet contemplation, head bowed, a single thin beam of soft light breaking through darkness behind them. Deep blue-grey palette.
@@ -272,7 +272,7 @@ blurry, extra limbs, frame, border
    Prompt: Two ornate wooden chess king pieces, faceless and abstract like real chess pieces, standing close together on a chessboard as if in a truce, each with a tiny hidden dagger tucked at its base. Warm candlelight. Muted warm-grey palette. No people, no faces.
 
 7. **rcard7.jpg — 耐心 Patience**
-   Prompt: A single glowing pearl resting inside an open oyster shell on the ocean floor, moonlight filtering down from above in a single beam. Soft warm amber-violet gradient. No people.
+   Prompt: A small silhouette of a pregnant woman sitting peacefully, hands resting on her belly, as eight phases of the moon arc gently overhead in the night sky. Soft warm amber-violet gradient.
 
 8. **rcard8.jpg — 平凡 Ordinariness**
    Prompt: A small silhouette walking a simple country path carrying a basket of flowers, no audience. Warm soft earth-tone palette, quiet dignity in everyday simplicity.
@@ -293,7 +293,7 @@ blurry, extra limbs, frame, border
     Prompt: A fully blooming lotus radiating warm multicolor light and floating petals outward in every direction. Uninhibited open joy.
 
 14. **rcard14.jpg — 豐盛 Abundance**
-    Prompt: A tree with roots deep in glowing earth and branches reaching into a glowing sky, warm full-bodied light connecting both. Harmony between physical enjoyment and inner depth.
+    Prompt: A small silhouette of a person kneeling, one hand touching the glowing earth, the other hand reaching up into a glowing sky, connecting both. Warm full-bodied light. Harmony between physical and spiritual.
 
 ---
 
