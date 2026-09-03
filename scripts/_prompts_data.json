@@ -1,0 +1,400 @@
+{
+  "art_direction": "Style:modern symbolic spiritual illustration, digital painting with soft luminous\ngradients and glowing light, dreamlike meditative mood, rich jewel-tone color palette,\nsingle centered subject, atmospheric glowing background (stars / mist / aura),\nminimalist and uncluttered. If a human presence appears, render it ONLY as a small\ndistant silhouette with no visible facial or body detail, or as an abstract light-being\nwith no anatomy — never a close-up realistic body, never bare skin. Family-friendly, SFW.\nAspect ratio 2:3 portrait. No text, no logo, no watermark, no border/frame.",
+  "cards": [
+    {
+      "file": "ccard1.jpg",
+      "title": "存在 Existence",
+      "prompt": "Abstract botanical illustration, no figure, no person, no human anatomy: a single glowing lotus-shaped flower made purely of starlight and soft mist petals, floating alone above a still dark cosmic ocean beneath a sky full of stars and a shooting comet. Deep indigo-to-violet gradient. Pure abstract light and floral form only, like a logo or icon."
+    },
+    {
+      "file": "ccard2.jpg",
+      "title": "內在之聲 Inner Voice",
+      "prompt": "A glowing crescent moon cradling a swirling spiral of silver water, two dolphins circling gently around it symbolizing intuition. Cool blue-white palette, quiet inner listening."
+    },
+    {
+      "file": "ccard3.jpg",
+      "title": "創造力 Creativity",
+      "prompt": "A single glowing paintbrush trailing colorful ribbons of light that swirl upward into abstract joyful shapes. Warm magenta-orange glow, playful creative energy flowing outward."
+    },
+    {
+      "file": "ccard4.jpg",
+      "title": "叛逆者 The Rebel",
+      "prompt": "A single blazing torch standing upright on a wind-swept cliff edge at dusk, a broken chain lying beside it, flames whipping like a cloak in the wind. Fiery red-black palette."
+    },
+    {
+      "file": "ccard5.jpg",
+      "title": "空無 No-Thingness",
+      "prompt": "A vast empty dark void with a single soft glowing point of light slowly dissolving at the center, no solid form. Deep black-violet gradient, spacious potential rather than emptiness."
+    },
+    {
+      "file": "ccard6.jpg",
+      "title": "戀人 The Lovers",
+      "prompt": "Two spirals of soft light intertwining and touching at their centers, connected by a thread of golden light. Soft pink-lavender palette, tender mutual connection."
+    },
+    {
+      "file": "ccard7.jpg",
+      "title": "覺察 Awareness",
+      "prompt": "A single luminous eye glowing softly at the center of an expanding calm circle of light, faint thought-forms drifting away like unattached smoke. Teal-gold palette."
+    },
+    {
+      "file": "ccard8.jpg",
+      "title": "勇氣 Courage",
+      "prompt": "A small delicate flower blooming through a crack in grey stone, reaching toward a single shaft of golden light from above. Muted grey background, warm golden highlight."
+    },
+    {
+      "file": "ccard9.jpg",
+      "title": "獨處 Aloneness",
+      "prompt": "A single glowing orb of soft light resting peacefully inside a larger circle of light in an otherwise dark space, self-contained and whole. Deep blue-violet palette."
+    },
+    {
+      "file": "ccard10.jpg",
+      "title": "變化 Change",
+      "prompt": "A great luminous wheel turning in space, a small steady point of light glowing at its center while the outer rim blurs with motion. Gold-orange-blue gradient."
+    },
+    {
+      "file": "ccard11.jpg",
+      "title": "突破 Breakthrough",
+      "prompt": "Cracks of golden light bursting outward through a dark stone wall, energy radiating in dramatic beams. Deep purple-black background, brilliant golden fracture light."
+    },
+    {
+      "file": "ccard12.jpg",
+      "title": "新視野 New Vision",
+      "prompt": "A single tree growing at a mountain summit, its upper branches reaching into bright sunrise light, its roots gripping rocky ground below. Balanced light-and-shadow composition."
+    },
+    {
+      "file": "ccard13.jpg",
+      "title": "蛻變 Transformation",
+      "prompt": "A phoenix-like form made of falling ash and petals on one side, dissolving into luminous rising light and feathers on the other. Deep red-violet-gold palette."
+    },
+    {
+      "file": "ccard14.jpg",
+      "title": "整合 Integration",
+      "prompt": "Two flowing forms — one sharp and angular, one soft and curved — merging together into a single balanced glowing shape. Teal-rose gradient."
+    },
+    {
+      "file": "ccard15.jpg",
+      "title": "制約 Conditioning",
+      "prompt": "A lion-shaped figure standing among a flock of sheep, faint ghostly bars of an invisible cage around it, a hint of golden mane light breaking through. Muted earth tones."
+    },
+    {
+      "file": "ccard16.jpg",
+      "title": "雷電 Thunderbolt",
+      "prompt": "A dramatic bolt of white-gold lightning shattering an old rigid tower into fragments against a dark storm-blue sky. Sense of sudden necessary upheaval."
+    },
+    {
+      "file": "ccard17.jpg",
+      "title": "寂靜 Silence",
+      "prompt": "Abstract illustration, no figure, no person: a single glowing lotus-shaped icon resting motionless in a vast quiet dark-blue empty space, faint ripples of stillness radiating outward like visible sound waves. Minimal composition, like a logo."
+    },
+    {
+      "file": "ccard18.jpg",
+      "title": "前世 Past Lives",
+      "prompt": "A pool of water reflecting faint layered echoes of ghostly shapes fading into mist. Sepia-violet palette, an old repeating pattern."
+    },
+    {
+      "file": "ccard19.jpg",
+      "title": "純真 Innocence",
+      "prompt": "A cluster of simple flowers and floating soap bubbles glowing in soft golden light. Warm pastel palette, open uncomplicated wonder."
+    },
+    {
+      "file": "ccard20.jpg",
+      "title": "超越幻象 Beyond Illusion",
+      "prompt": "A translucent veil dissolving away from a bright glowing shape behind it, layered semi-transparent forms fading. Cool violet-silver palette."
+    },
+    {
+      "file": "ccard21.jpg",
+      "title": "完成 Completion",
+      "prompt": "A circle of golden light closing seamlessly around a single softly fading star at its center. Warm amber-rose gradient, gentle closure."
+    },
+    {
+      "file": "ccard22.jpg",
+      "title": "大師 The Master",
+      "prompt": "A tall ancient tree with roots of light extending deep into the earth and a single star glowing above its crown. Deep midnight-blue and silver palette, quiet enduring authority."
+    },
+    {
+      "file": "ccard23.jpg",
+      "title": "愚者 The Fool",
+      "prompt": "A small silhouette leaping off a cliff edge into open sky at dawn, arms outstretched holding a small flower, wearing simple colorful clothing, mountains and a river below bathed in warm sunrise colors. Trust and new beginning."
+    },
+    {
+      "file": "fcard1.jpg",
+      "title": "本源 The Source",
+      "prompt": "A radiant sun-like sphere of concentrated red-orange-gold energy pulsing at the center of the frame, rings of fire and light emanating outward. Untapped inner power."
+    },
+    {
+      "file": "fcard2.jpg",
+      "title": "可能 Possibilities",
+      "prompt": "An eagle soaring high above a mountain peak toward an open golden horizon. Wide sense of expanding opportunity, warm gold-orange sky."
+    },
+    {
+      "file": "fcard3.jpg",
+      "title": "體驗 Experiencing",
+      "prompt": "A glowing tree trunk with warm amber light flowing through its bark like a heartbeat, roots and branches pulsing gently together. Direct lived experience over abstract thought."
+    },
+    {
+      "file": "fcard4.jpg",
+      "title": "參與 Participation",
+      "prompt": "A circle of glowing colored light-beams weaving together into one larger radiant pattern above a warm central glow. Warm collective energy."
+    },
+    {
+      "file": "fcard5.jpg",
+      "title": "全然 Totality",
+      "prompt": "Three flames of light passing a glowing orb between each other in a triangular dance, dynamic warm-toned light trails. Full present-moment focus."
+    },
+    {
+      "file": "fcard6.jpg",
+      "title": "成功 Success",
+      "prompt": "A powerful tiger leaping through a shower of golden confetti and ribbons, triumphant motion. Warm celebratory orange-gold palette."
+    },
+    {
+      "file": "fcard7.jpg",
+      "title": "壓力 Stress",
+      "prompt": "Too many glowing orbs, rings, and flames being juggled at once in frantic motion above a single spinning ball. Warm but chaotic reds and oranges, strain visible in the motion blur."
+    },
+    {
+      "file": "fcard8.jpg",
+      "title": "旅程 Traveling",
+      "prompt": "A small silhouette walking a winding misty mountain path, the destination hidden in soft fog, warm dawn light glowing at the edges. Journey over destination."
+    },
+    {
+      "file": "fcard9.jpg",
+      "title": "耗竭 Exhaustion",
+      "prompt": "A flickering flame tangled in mechanical gears and tubes, struggling to keep burning. Dulled warm tones fading toward grey, burnout needing rest."
+    },
+    {
+      "file": "fcard10.jpg",
+      "title": "壓抑 Suppression",
+      "prompt": "A glowing orb of light tightly bound by coils of dark rope, faint light straining to escape through the bindings. Deep red-black palette, a single crack of gold light escaping."
+    },
+    {
+      "file": "fcard11.jpg",
+      "title": "玩心 Playfulness",
+      "prompt": "A small silhouette dancing freely under a sky full of stars, limbs loose and joyful, trailing sparks of golden light like laughter made visible."
+    },
+    {
+      "file": "fcard12.jpg",
+      "title": "熾烈 Intensity",
+      "prompt": "A single streak of pure blazing energy shooting forward like a comet, minimal background. Dramatic red-gold motion blur, total focused momentum."
+    },
+    {
+      "file": "fcard13.jpg",
+      "title": "分享 Sharing",
+      "prompt": "A glowing candle beside an overflowing basket of fruit and light, warmth spreading outward freely toward the viewer. Warm golden radiance, abundance given freely."
+    },
+    {
+      "file": "fcard14.jpg",
+      "title": "創造者 The Creator",
+      "prompt": "A small silhouette seated peacefully in soft inner firelight, hands cupped around a small glowing flame at the heart. Warm orange-gold aura, integrated creative power."
+    },
+    {
+      "file": "wcard1.jpg",
+      "title": "隨波逐流 Going With The Flow",
+      "prompt": "A single white feather floating peacefully on a calm turquoise water surface, drifting gently with the current. Cool blue-teal palette, complete surrender and trust."
+    },
+    {
+      "file": "wcard2.jpg",
+      "title": "知己之交 Friendliness",
+      "prompt": "Two trees growing side by side, branches touching lightly overhead without tangling, roots independent in soft earth. Cool green-blue palette, quiet companionship."
+    },
+    {
+      "file": "wcard3.jpg",
+      "title": "歡慶 Celebration",
+      "prompt": "Three glowing lanterns swaying and dancing together in the rain among trees, light scattering joyfully through raindrops. Lively blue-violet palette."
+    },
+    {
+      "file": "wcard4.jpg",
+      "title": "內觀 Turning In",
+      "prompt": "A single still point of glowing light at the center of calm water, faint translucent ripples of faces and thoughts drifting and dissolving outward. Calm indigo palette."
+    },
+    {
+      "file": "wcard5.jpg",
+      "title": "放不下 Clinging To The Past",
+      "prompt": "An ornate heavy chest glowing faintly from within with old memories, chains wrapped tightly around it. Cool grey-blue tones, weight of longing for what has passed."
+    },
+    {
+      "file": "wcard6.jpg",
+      "title": "幻夢 The Dream",
+      "prompt": "A single outstretched hand of light reaching toward a glowing, semi-transparent idealized silhouette in the distance. Soft dreamy blue-violet mist, romantic illusion rather than solid reality."
+    },
+    {
+      "file": "wcard7.jpg",
+      "title": "投射 Projections",
+      "prompt": "Two translucent faces overlapping in shifting light and shadow, blurring into one another. Ambiguous cool-toned mist, seeing one's own feelings mirrored onto another."
+    },
+    {
+      "file": "wcard8.jpg",
+      "title": "放手 Letting Go",
+      "prompt": "A single water droplet sliding off a lotus leaf into calm water, gentle expanding ripples fading into stillness. Soft blue-grey palette, quiet release."
+    },
+    {
+      "file": "wcard9.jpg",
+      "title": "安逸 Laziness",
+      "prompt": "An empty lounge chair beside a half-finished drink, the mirror behind it quietly cracked. Cool blues with a subtle uneasy fracture of light, comfort mistaken for stillness."
+    },
+    {
+      "file": "wcard10.jpg",
+      "title": "和諧 Harmony",
+      "prompt": "A stream of soft dolphin-shaped light flowing in a gentle figure-eight between two glowing points. Cool aqua-violet palette, inner balance."
+    },
+    {
+      "file": "wcard11.jpg",
+      "title": "理解 Understanding",
+      "prompt": "A bird flying freely past the loosely open bars of a cage, the bars rendered translucent and unlocked. Soft blue-white palette, realizing the limit was never solid."
+    },
+    {
+      "file": "wcard12.jpg",
+      "title": "信任 Trust",
+      "prompt": "A small silhouette leaping joyfully off a cliff into open sky above calm water, arms wide open, no visible safety net. Warm light breaking through cool blue tones."
+    },
+    {
+      "file": "wcard13.jpg",
+      "title": "接納 Receptivity",
+      "prompt": "Two open hands gently cupping a glowing blooming lotus flower, soft starlight and water reflections around them. Cool blue-lavender palette, quiet openness."
+    },
+    {
+      "file": "wcard14.jpg",
+      "title": "療癒 Healing",
+      "prompt": "Two hands gently cupping a small luminous glowing orb, old faint cracks of light on its surface softening and dissolving. Warm-cool blended blue-rose palette, tender healing."
+    },
+    {
+      "file": "ucard1.jpg",
+      "title": "意識之光 Consciousness",
+      "prompt": "A meditating silhouette made entirely of stars and soft mist against a deep midnight-blue sky. Quiet luminous clarity emerging from stillness."
+    },
+    {
+      "file": "ucard2.jpg",
+      "title": "拉鋸 Schizophrenia",
+      "prompt": "A glowing orb suspended midair, pulled taut by two opposing beams of light on either side, unable to settle. Cool grey-violet palette, torn between two choices."
+    },
+    {
+      "file": "ucard3.jpg",
+      "title": "封凍 Ice-olation",
+      "prompt": "A face frozen inside a block of pale blue ice, a single tear suspended mid-fall. Cool icy palette, protective numbness hiding old hurt."
+    },
+    {
+      "file": "ucard4.jpg",
+      "title": "拖延 Postponement",
+      "prompt": "A window glowing with a vivid colorful landscape outside, while the room on this side stays dim and grey with fog. Vibrant possibility versus grey hesitation."
+    },
+    {
+      "file": "ucard5.jpg",
+      "title": "比較 Comparison",
+      "prompt": "A rough old tree trunk and a tall slender bamboo standing side by side in soft light, neither better nor worse. Muted green-brown palette."
+    },
+    {
+      "file": "ucard6.jpg",
+      "title": "重擔 The Burden",
+      "prompt": "A small bent silhouette climbing a steep hill carrying many faint ghostly packages and shapes on their back. Muted grey-violet tones, weight of unspoken obligation."
+    },
+    {
+      "file": "ucard7.jpg",
+      "title": "心機 Politics",
+      "prompt": "Two overlapping masks, one smiling and one scowling, neither showing a real face beneath. Cool grey-green palette, calculated social performance."
+    },
+    {
+      "file": "ucard8.jpg",
+      "title": "自責 Guilt",
+      "prompt": "A glowing head-shaped form with translucent hands reaching in from all directions. Faint grey-violet tones, the heavy weight of self-blame pressing inward."
+    },
+    {
+      "file": "ucard9.jpg",
+      "title": "悲傷 Sorrow",
+      "prompt": "A small hooded silhouette sitting in quiet contemplation, head bowed, a single thin beam of soft light breaking through darkness behind them. Deep blue-grey palette."
+    },
+    {
+      "file": "ucard10.jpg",
+      "title": "重生 Rebirth",
+      "prompt": "A small distant silhouette, no visible facial detail, playing a flute while standing atop a sleeping lion and camel, dawn light breaking behind them. Soft gold-blue gradient."
+    },
+    {
+      "file": "ucard11.jpg",
+      "title": "紛亂之心 Mind",
+      "prompt": "A head-shaped form built from tangled gears, dice, and mechanical fragments, faint light struggling to shine through the clutter. Cool grey-metallic palette."
+    },
+    {
+      "file": "ucard12.jpg",
+      "title": "備戰 Fighting",
+      "prompt": "A suit of heavy armor standing alone, fists clenched empty inside, a small vulnerable glow barely visible through a crack in the chestplate. Cool steel-blue palette."
+    },
+    {
+      "file": "ucard13.jpg",
+      "title": "教條 Morality",
+      "prompt": "A rigid geometric cage of bars and layered stiff collars stacked upon each other, empty at the center. Muted grey-beige palette, vitality dimmed by external rules."
+    },
+    {
+      "file": "ucard14.jpg",
+      "title": "掌控 Control",
+      "prompt": "A glowing orb surrounded by sharp radiating spikes of self-made light, tightly contained. Cool blue-white palette with an undertone of strain."
+    },
+    {
+      "file": "rcard1.jpg",
+      "title": "圓熟 Maturity",
+      "prompt": "A blossoming tree standing serenely in soft spring light, its roots glowing deep and visible beneath the earth. Warm golden-green palette, earned stability."
+    },
+    {
+      "file": "rcard2.jpg",
+      "title": "當下 Moment To Moment",
+      "prompt": "A small silhouette stepping lightly across stones in a flowing stream, focused only on the next step. Warm multicolor light reflecting off the water's surface."
+    },
+    {
+      "file": "rcard3.jpg",
+      "title": "指引 Guidance",
+      "prompt": "A luminous rainbow-winged shape of light hovering gently beside a small glowing seed of light. Warm prismatic glow, inner guidance rather than external authority."
+    },
+    {
+      "file": "rcard4.jpg",
+      "title": "守財者 The Miser",
+      "prompt": "A heap of glowing jewels in a shadowed corner, two clutched hands barely visible gripping them tightly shut. Cool shadow despite the wealth around them."
+    },
+    {
+      "file": "rcard5.jpg",
+      "title": "局外人 The Outsider",
+      "prompt": "A small silhouette of a child standing before a tall gate believing it locked, while a chain lies loosely broken at their feet. Warm-cool contrast between imagined and real barriers."
+    },
+    {
+      "file": "rcard6.jpg",
+      "title": "妥協 Compromise",
+      "prompt": "Two shapes of light standing side by side, each quietly hiding a small blade behind them, forced smiles painted on simple mask-like faces. Muted warm-grey palette, uneasy peace."
+    },
+    {
+      "file": "rcard7.jpg",
+      "title": "耐心 Patience",
+      "prompt": "A glowing seed resting peacefully as moon phases arc gently overhead in a cycle, quiet growth happening unseen within. Soft warm amber-violet gradient."
+    },
+    {
+      "file": "rcard8.jpg",
+      "title": "平凡 Ordinariness",
+      "prompt": "A small silhouette walking a simple country path carrying a basket of flowers, no audience. Warm soft earth-tone palette, quiet dignity in everyday simplicity."
+    },
+    {
+      "file": "rcard9.jpg",
+      "title": "熟成 Ripeness",
+      "prompt": "A single fully ripe fruit hanging heavy and glowing on a branch, about to fall on its own without force. Warm golden-orange palette, readiness."
+    },
+    {
+      "file": "rcard10.jpg",
+      "title": "世界一家 We Are The World",
+      "prompt": "A circle of many different glowing lights linked hand to hand in an unbroken ring, dancing gently around a small luminous globe. Warm multicolor prismatic palette, joyful collective celebration."
+    },
+    {
+      "file": "rcard11.jpg",
+      "title": "冒險 Adventure",
+      "prompt": "A small silhouette standing at the edge of a misty forest facing a glowing, uncertain rainbow-colored light ahead, no map. Warm-cool contrast, quiet courage."
+    },
+    {
+      "file": "rcard12.jpg",
+      "title": "放慢腳步 Slowing Down",
+      "prompt": "A turtle carrying a glowing shell-home calmly along a quiet path, unhurried. Warm muted earth tones, contentment already carried within."
+    },
+    {
+      "file": "rcard13.jpg",
+      "title": "綻放 Flowering",
+      "prompt": "A fully blooming lotus radiating warm multicolor light and floating petals outward in every direction. Uninhibited open joy."
+    },
+    {
+      "file": "rcard14.jpg",
+      "title": "豐盛 Abundance",
+      "prompt": "A tree with roots deep in glowing earth and branches reaching into a glowing sky, warm full-bodied light connecting both. Harmony between physical enjoyment and inner depth."
+    }
+  ]
+}
