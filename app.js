@@ -78,7 +78,7 @@ function renderGrid(deckKey) {
 
     const badge = document.createElement('span');
     badge.className = 'card-num';
-    badge.textContent = card.num;
+    badge.textContent = card.displayNum ?? card.num;
 
     thumb.appendChild(img);
     thumb.appendChild(badge);
