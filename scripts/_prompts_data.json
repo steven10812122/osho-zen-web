@@ -354,7 +354,7 @@
     {
       "file": "rcard6.jpg",
       "title": "妥協 Compromise",
-      "prompt": "Two identical wooden marionette puppet dolls hanging from strings, carved wooden faces painted with fixed smiles, visible wood grain and joints — clearly toy puppets, not real people — each secretly holding a tiny dagger behind its back. Muted warm-grey palette."
+      "prompt": "Two ornate wooden chess king pieces, faceless and abstract like real chess pieces, standing close together on a chessboard as if in a truce, each with a tiny hidden dagger tucked at its base. Warm candlelight. Muted warm-grey palette. No people, no faces."
     },
     {
       "file": "rcard7.jpg",
@@ -399,7 +399,7 @@
     {
       "file": "back.jpg",
       "title": "卡背 Card Back",
-      "prompt": "An elegant symmetrical mandala-like pattern in deep indigo and gold, softly glowing at the center, no text, no figure, no person, abstract and mysterious geometric design."
+      "prompt": "placeholder"
     }
   ]
 }

@@ -269,7 +269,7 @@ blurry, extra limbs, frame, border
    Prompt: A small silhouette of a child standing before a tall gate believing it locked, while a chain lies loosely broken at their feet. Warm-cool contrast between imagined and real barriers.
 
 6. **rcard6.jpg — 妥協 Compromise**
-   Prompt: Two identical wooden marionette puppet dolls hanging from strings, carved wooden faces painted with fixed smiles, visible wood grain and joints — clearly toy puppets, not real people — each secretly holding a tiny dagger behind its back. Muted warm-grey palette.
+   Prompt: Two ornate wooden chess king pieces, faceless and abstract like real chess pieces, standing close together on a chessboard as if in a truce, each with a tiny hidden dagger tucked at its base. Warm candlelight. Muted warm-grey palette. No people, no faces.
 
 7. **rcard7.jpg — 耐心 Patience**
    Prompt: A single glowing pearl resting inside an open oyster shell on the ocean floor, moonlight filtering down from above in a single beam. Soft warm amber-violet gradient. No people.
